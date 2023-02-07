@@ -1,1 +1,3 @@
 Color: blue
+font-waight: bold;
+color:#F00;
